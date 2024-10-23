@@ -9,7 +9,7 @@ Quote
 Bug Report
 ***
 ## Role Management
-List of role commands
+List of role commands:
 *`!role (role to add to yourself)`
 *`!removerole (role to remove from youself)`
 *`!addrole (role to add to the list of assignable roles)`
