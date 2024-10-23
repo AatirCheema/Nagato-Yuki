@@ -71,8 +71,8 @@ All these messages are easily adjustable in the `welcome.py` script.
 ## Avatar
 
 Command
-`!avatar (@user)`
-Will output a larger image of the @'d user's profile picture. The size of the output can be easily adjusted.  
+`!avatar (@user)`  
+This will output a larger image of the @'d user's profile picture. The size of the output can be easily adjusted.  
 *It's set curretnly set to 1024x1024.*
 
 
