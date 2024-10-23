@@ -1,14 +1,14 @@
 # Nagato-Yuki
 Nagato Yuki is a multifunction discord bot written completely in python. Nagato can do the following:
-***Role management
-Convert twitter links to vxtwitter links
-Convert pixiv links to phixiv
-Random number generator
-Coin flip
-Quote
+***Role management  
+Convert twitter links to vxtwitter links  
+Convert pixiv links to phixiv  
+Random number generator  
+Coin flip  
+Quote  
 Random quote  
-Bug report
-***
+Bug report***
+
 ## Role Management
 List of role commands:  
 `!role (role to add to yourself)`  
