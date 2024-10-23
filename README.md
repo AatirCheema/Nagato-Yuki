@@ -79,7 +79,7 @@ This will output a larger image of the @'d user's profile picture. The size of t
 ## Bugs
 
 ### Commands
-`!bug report (Description of bug) (link to bugged message) (optional image file)`  
+`!bugreport (Description of bug) (link to bugged message) (optional image file)`  
 `!listbugs`  
 `!detelbug (ID number)`  
 
