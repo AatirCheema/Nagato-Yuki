@@ -1,5 +1,5 @@
 # Nagato-Yuki
-Nagato Yuki is a multifunction discord bot written completely in python. Nagato can do the following:
+Nagato Yuki is a multifunction discord bot written completely in python. Nagato can do the following:  
 ***Role management  
 Convert twitter links to vxtwitter links  
 Convert pixiv links to phixiv  
@@ -30,6 +30,12 @@ The function is quite simple. You simply post any working `twitter.com` , `x.com
 
 ## Random Number Generator
 
-Command
+Command  
 `!random min_value max_value`  
-The output will be any number within the range of 
+The output will be any number within the range designated.
+
+## Coin flip
+
+Command  
+`!flip`  
+The output will appear with a 5 second delay allowing the user(s) to decide on an option.
