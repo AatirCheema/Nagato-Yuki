@@ -6,7 +6,8 @@ Convert pixiv links to phixiv
 Random number generator
 Coin flip
 Quote
-Bug Report
+Random quote  
+Bug report
 ***
 ## Role Management
 List of role commands:  
@@ -26,3 +27,9 @@ Pixiv and twitter are very commonly used for art posts. Twitter, now known as X,
 ### How it works
 
 The function is quite simple. You simply post any working `twitter.com` , `x.com`, or `pxiv.com` link and it'll automatically convert the link for you. There's even support for spoiler posts. This way if a user shares a spoiler link in this format `||x.com||`, Nagato will output `||vxtwitter.com||` to also have the output marked as a spoiler. 
+
+## Random Number Generator
+
+Command
+`!random min_value max_value`  
+The output will be any number within the range of 
